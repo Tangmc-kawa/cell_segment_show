@@ -1,0 +1,11 @@
+# Python Version
+python==3.10.*
+
+# Packages
+numpy
+scipy
+tifffile
+numba
+pandas
+scikit-image
+opencv
