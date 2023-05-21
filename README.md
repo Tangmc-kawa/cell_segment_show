@@ -22,6 +22,4 @@ We expect a csv file with columns "x_in_pix", "y_in_pix", "z_in_pix" and "Cell I
 | 1552     | 1483     | 16       | 4          |
 | 1377     | 343      | 18       | 1          |
 
-The position of rnas belonging to each cell will be converted to a 3d array where each point represents a rna and the point's value represents cell index. The index will be the gray scale of output 3d tif file.
-
-If the 3d tif file is ready, you can read the tif file as a 3d array and perform convex hull on the array algorithm directly.
+The position of rnas belonging to each cell will be converted to a set of convex hull functions and fill a specific size of 3d array where each point represents a rna and the point's value represents cell index according the convex hull functions. The index will be the gray scale of output 3d tif file.

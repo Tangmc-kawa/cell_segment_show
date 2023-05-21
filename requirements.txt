@@ -9,3 +9,4 @@ numba
 pandas
 scikit-image
 opencv
+joblib

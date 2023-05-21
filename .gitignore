@@ -1,1 +1,3 @@
-hull_results/hull_cells.tif
+hull_results/*
+closing_results/*
+lib/__pycache__/*
