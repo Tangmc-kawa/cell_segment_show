@@ -1,6 +1,6 @@
 # Cell_segment_show
 
-This is a program for visualizing cell boundaries of a spatial transcriptome data with a convex hull algorithm or image closing. The data consists of a set of points with specific indexes which represents different cells.
+This is a program for visualizing cell boundaries of a spatial transcriptome data with a convex hull algorithm. The data consists of a set of points with specific indexes which represents different cells.
 
 ## Quickstart
 

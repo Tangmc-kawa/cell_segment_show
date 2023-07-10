@@ -1,3 +1,2 @@
-hull_results/*
-closing_results/*
+dataset/*
 lib/__pycache__/*
